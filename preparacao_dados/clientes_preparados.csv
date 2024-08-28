@@ -1,0 +1,10 @@
+idade,data,estado,salario,nivel_educacao,numero_filhos,estado_civil,area_atuacao
+53.0,1971-01-13,CE,9731,Ensino Fundamental,1,Viúvo(a),Engenharia
+57.0,1967-06-26,ES,5174,Ensino Médio,5,Viúvo(a),Administração
+51.0,1973-02-09,ES,2533,Doutorado,5,Casado(a),Saúde
+21.0,2003-07-13,SP,2612,Ensino Fundamental,1,Casado(a),Saúde
+60.0,1964-12-23,PB,2576,Doutorado,0,Divorciado(a),TI
+59.0,1964-11-27,MS,9430,Ensino Fundamental,4,Divorciado(a),Saúde
+53.0,1970-12-28,AC,9586,Ensino Médio,5,Viúvo(a),Educação
+54.0,1970-08-04,SC,4622,Pós-Graduação,1,Solteiro(a),Marketing
+48.0,1976-10-13,MS,4247,Ensino Fundamental,1,Casado(a),Engenharia

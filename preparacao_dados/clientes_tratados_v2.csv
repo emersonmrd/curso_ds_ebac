@@ -1,0 +1,10 @@
+,nome,cpf,idade,data,endereco,bairro,estado,salario,nivel_educacao,numero_filhos,estado_civil,area_atuacao
+0,Sr. Gustavo Campos,104.***.***-30,53.0,1971-01-13,"estrada asafe cassiano, 92",conjunto califórnia ii,CE,9731,Ensino Fundamental,1,Viúvo(a),Engenharia
+1,Cecilia Vasconcelos,207.***.***-38,57.0,1967-06-26,"residencial de camargo, 802",caetano furquim,ES,5174,Ensino Médio,5,Viúvo(a),Administração
+2,Sophia Abreu,561.***.***-08,51.0,1973-02-09,"largo vieira, 34",vila jardim alvorada,ES,2533,Doutorado,5,Casado(a),Saúde
+3,Davi Miguel Rocha,091.***.***-57,21.0,2003-07-13,"setor sales, 33",castanheira,SP,2612,Ensino Fundamental,1,Casado(a),Saúde
+4,Davi Luiz Barbosa,129.***.***-14,60.0,1964-12-23,"recanto cirino, 46",marçola,PB,2576,Doutorado,0,Divorciado(a),TI
+5,Lunna Macedo,587.***.***-88,59.0,1964-11-27,"favela emilly vieira, 6",cidade jardim,MS,9430,Ensino Fundamental,4,Divorciado(a),Saúde
+6,Emanuel Novaes,679.***.***-59,53.0,1970-12-28,"recanto beatriz monteiro, 156",itatiaia,AC,9586,Ensino Médio,5,Viúvo(a),Educação
+7,Maria Luiza Da Conceição,528.***.***-29,54.0,1970-08-04,"vale de da conceição, 862",olaria,SC,4622,Pós-Graduação,1,Solteiro(a),Marketing
+8,Cecilia Rocha,304.***.***-75,48.0,1976-10-13,"recanto enzo gabriel pimenta, 387",nova esperança,MS,4247,Ensino Fundamental,1,Casado(a),Engenharia
