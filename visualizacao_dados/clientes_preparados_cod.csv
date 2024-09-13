@@ -1,0 +1,10 @@
+,idade,data,estado,salario,nivel_educacao,numero_filhos,estado_civil,area_atuacao,estado_civil_Casado(a),estado_civil_Divorciado(a),estado_civil_Solteiro(a),estado_civil_Viúvo(a),nivel_educacao_ordinal,area_atuacao_cod,estado_cod,nivel_educacao_cod
+0,53.0,1971-01-13,CE,9731,Ensino Fundamental,1,Viúvo(a),Engenharia,False,False,False,True,1,2,1,1
+1,57.0,1967-06-26,ES,5174,Ensino Médio,5,Viúvo(a),Administração,False,False,False,True,2,0,2,2
+2,51.0,1973-02-09,ES,2533,Doutorado,5,Casado(a),Saúde,True,False,False,False,6,4,2,0
+3,21.0,2003-07-13,SP,2612,Ensino Fundamental,1,Casado(a),Saúde,True,False,False,False,1,4,6,1
+4,60.0,1964-12-23,PB,2576,Doutorado,0,Divorciado(a),TI,False,True,False,False,6,5,4,0
+5,59.0,1964-11-27,MS,9430,Ensino Fundamental,4,Divorciado(a),Saúde,False,True,False,False,1,4,3,1
+6,53.0,1970-12-28,AC,9586,Ensino Médio,5,Viúvo(a),Educação,False,False,False,True,2,1,0,2
+7,54.0,1970-08-04,SC,4622,Pós-Graduação,1,Solteiro(a),Marketing,False,False,True,False,4,3,5,3
+8,48.0,1976-10-13,MS,4247,Ensino Fundamental,1,Casado(a),Engenharia,True,False,False,False,1,2,3,1
